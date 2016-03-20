@@ -75,7 +75,7 @@ public class VarastoTest {
     @Test
     public void negatiivinenOtto() {
         varasto.lisaaVarastoon(8);
-        varasto.otaVarastosta(1);
+        varasto.otaVarastosta(-1);
         assertEquals(8, varasto.getSaldo(), vertailuTarkkuus);
     }
     
