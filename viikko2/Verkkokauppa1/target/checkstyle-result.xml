@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\Main.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Kauppa.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Kirjanpito.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Kirjanpitorajapinta.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Ostoskori.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Pankki.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Pankkirajapinta.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Tuote.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Varasto.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Varastorajapinta.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Viitegeneraattori.java">
+</file>
+<file name="C:\Users\Olli-Pekka\ohtu\ohtuclone\ohtu2016\viikko2\Verkkokauppa1\src\main\java\ohtu\verkkokauppa\Viiterajapinta.java">
+</file>
+</checkstyle>
