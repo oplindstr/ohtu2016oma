@@ -5,11 +5,21 @@
  */
 package ohtu.kivipaperisakset;
 
+import java.util.Scanner;
 /**
  *
  * @author Olli-Pekka
  */
-public interface Tekoaly {
-    String annaSiirto();
-    void asetaSiirto(String siirto);
+public class IO {
+    
+    private Scanner scanner;
+    
+    public IO() {
+        scanner = new Scanner(System.in);
+    }
+    
+    public String nextLine() {
+        return scanner.nextLine();
+    }
+    
 }

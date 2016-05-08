@@ -1,0 +1,28 @@
+Lauri Suomalaisen kandidaattityö - Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään - referaatti
+
+
+  Ohjelmistotuotantoa on esiintynyt 50-luvulta lähtien ja sen vallitsevat menetelmät ovat kehittyneet siitä
+lähtien paljon. Ohjelmistotuotantoon kuuluu kaikki ohjelmistojen tuottamiseen kuuluvat osat, kuten esimerkiksi 
+määrittely, suunnittelu, toteutus, testaus ja dokumentointi.
+  Ensimmäisten tietokoneiden kanssa ohjelmistotuotanto oli yksinkertaisempaa, mutta tietokoneiden kehittyessä 
+kasvoi tarve monimutkaisemmille ohjelmistotuotantomenetelmille. Perinteiset ohjelmistotuotantomenetelmät ovat
+luonteeltaan tiukasti suunnitelmiin nojaavia, kun taas nykyään vallitsevat joustavammat menetelmät.
+  Perinteisistä ohjelmistotuotantomenetelmistä käytetään usein termiä vesiputousmalli. Siinä on tarkoituksena
+suorittaa ohjelmistotuotannon eri työvaiheita järjestyksessä. Esimerkiksi, koko järjestelmä suunnitellaan ensin
+kokonaan ja sitten vasta aloitetaan toteutus. Ohjelmistotuotannon arvaamattoman luonteen takia ongelmaksi tulee
+se, että mahdollisia ongelmia ei usein vielä huomata suunnitteluvaiheessa, vaan vasta toteuttaessa.
+  Nykyaikaisempia menetelmiä ovat inkrementaaliset ja iteratiiviset, sekä erityisesti ketterät, ohjelmisto-
+tuotantomenetelmät. Näille menetelmille on ominaista kaikkien ohjelmistotuotannon työvaiheiden suorittaminen
+pienissä iteraatioissa ja kehityksen ohjaaminen jatkuvan palautteen perusteella. 
+  Eräitä tunnettuja iteratiivisia menetelmiä ovat spiraalimalli ja RUP. Spiraalimallissa kehittämistä ohjataan
+riskien avulla, eli yritetään välttää epätoivottuja tilanteita. RUPissa vallitsevat vahva dokumentointi ja
+käyttötapaukset. Spiraalimallissa voidaan tehokkaasti käyttää ohjelmistotuotantomenetelmien hyviä puolia ja
+välttää huonoja, mutta riskien hallinta voi olla monimutkaista. RUP tuottaa laadukkaita ohjelmistoja, mutta ei 
+välttämättä sovellu todella laajoihin projekteihin.
+  Ketterissä menetelmissä painottuvat lisäksi tiivis yhteistyö sekä kehittäjäryhmän sisällä, että asiakkaiden
+kanssa. Kuuluisin ketterä ohjelmistotuotantomenetelmä on Scrum. Siinä ohjelmistoa kehitetään sprinteiksi
+kutsutuissa, tietyn pituisissa, iteraatioissa. Jokaisen sprintin lopuksi kehittäjäryhmä kokoontuu asiakkaan
+kanssa suunnittelemaan seuraavaa sprintiä. Lisäksi kehittäjäryhmä kokoustaa päivittäin projektin tilanteesta.
+Ketterät menetelmät tuottavat ohjelmistoja nopeammin, mutta niitäkin on vaikea soveltaa laajoissa projekteissa.
+  Ketterät menetelmät ovat nykyään suosituimpia. Trendi voi kuitenkin vielä muuttua yhä suurempien maailman-
+laajuisten projektien muodostaessa haasteita niille.
